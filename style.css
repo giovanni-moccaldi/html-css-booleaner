@@ -1,3 +1,11 @@
+.immagine1{
+    background-size: 200px;;
+}
 h1{
-    color: blue;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+    
+}
+#data{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
 }
